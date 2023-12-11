@@ -1,2 +1,2 @@
-# MSS-UNet-N
+# MSS-UNet
 The code will be released soon.
